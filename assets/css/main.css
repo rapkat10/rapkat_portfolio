@@ -2516,6 +2516,11 @@ input, select, textarea {
 	font-weight: 600;
 }
 
+.email {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
 
 .resume-button {
 	font-size: 1.5em;
